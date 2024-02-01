@@ -16,6 +16,6 @@ I am planning on implementing the following in this codebase:
 
 ### ⏰ Project Management
 
-[project schedule for stopwatch website](./src/images/stopwatch-pm.png)
+![project schedule for stopwatch website](./src/images/stopwatch-pm.png)
 
 ### ⏰ Stay tuned to see my new project!
