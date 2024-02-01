@@ -8,8 +8,6 @@ type LappedTimeProps = {
 export default function LappedTime (props:LappedTimeProps) {
 
     const {lappedTime} = props;
-
-    // keeps track of how many laps have been recorded
     let lapCount: number = 0;
 
     return (

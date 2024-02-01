@@ -6,12 +6,16 @@ This project was originally a take home assessment for a job interview. After fi
 
 I am planning on implementing the following in this codebase:
 
-⏰ adding milliseconds to stopwatch
-⏰ replacing my onClick events with custom hooks
-⏰ refactoring tests & adding coverage to account for custom hooks
-⏰ refactoring my time formatting functions, potentially using the JS/TS Date object instead of my current set up
-⏰ adding more complex styles
-⏰ adding a types file & improving my TypeScript throughout the project
-⏰ potentially: deploying project with netlify or vercel
+⏰ adding milliseconds to stopwatch <br>
+⏰ replacing my onClick events with custom hooks <br>
+⏰ refactoring tests & adding coverage to account for custom hooks <br>
+⏰ refactoring my time formatting functions, potentially using the JS/TS Date object instead of my current set up <br>
+⏰ adding more complex styles <br>
+⏰ adding a types file & improving my TypeScript throughout the project <br>
+⏰ potentially: deploying project with netlify or vercel <br>
 
-Stay tuned to see my new project!
+### ⏰ Project Management
+
+[project schedule for stopwatch website](./src/images/stopwatch-pm.png)
+
+### ⏰ Stay tuned to see my new project!
